@@ -1,7 +1,7 @@
 # Hello, moi c'est Bihaïrat 👋.
 ## ✨Bienvenu dans mon GitHub✨
 
-###🎓 Actuaire & Data Scientist
+### 🎓 Actuaire & Data Scientist
 
 Je suis spécialisée en **Actuariat et Data Science**, avec un intérêt particulier pour
 la **modélisation statistique, le machine learning et l'analyse des risques en assurance**.
