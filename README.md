@@ -1,7 +1,7 @@
 # Hello, moi c'est Bihaïrat 👋.
 ## ✨Bienvenu dans mon GitHub✨
 
-🎓 Actuaire & Data Scientist
+###🎓 Actuaire & Data Scientist
 
 Je suis spécialisée en **Actuariat et Data Science**, avec un intérêt particulier pour
 la **modélisation statistique, le machine learning et l'analyse des risques en assurance**.
@@ -14,11 +14,10 @@ la **modélisation statistique, le machine learning et l'analyse des risques en 
 - Data Management & Data Quality
 - Analyse des risques
 
+
 ### 🛠️ Technologies
 
 **Python** · **R** · **SAS** · **SQL** · **VBA** · **Power BI**
-
-Python : Pandas · NumPy · Scikit-learn · Statsmodels · XGBoost · SHAP
 
 
 ### 🌱 Actuellement
