@@ -7,12 +7,12 @@ Je suis spécialisée en **Actuariat et Data Science**, avec un intérêt partic
 la **modélisation statistique, le machine learning et l'analyse des risques en assurance**.
 
 🔭 Je travaille notamment sur :
-- 📊 Analyse et visualisation de données
-- 📈 Modélisation statistique & GLM
-- 🧮 Tarification, provisionnement et ALM
-- 🤖 Machine Learning
-- 🗄️ Data Management & Data Quality
-- 📉 Analyse des risques
+- Analyse et visualisation de données
+- Modélisation statistique & GLM
+- Tarification, provisionnement et ALM
+- Machine Learning
+- Data Management & Data Quality
+- Analyse des risques
 
 ### 🛠️ Technologies
 
