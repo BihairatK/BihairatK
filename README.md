@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello, moi c'est Bihaïrat 👋.
+## ✨Bienvenu dans mon GitHub✨
 
-<!--
-**BihairatK/BihairatK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Actuaire & Data Scientist
 
-Here are some ideas to get you started:
+Je suis spécialisée en **Actuariat et Data Science**, avec un intérêt particulier pour
+la **modélisation statistique, le machine learning et l'analyse des risques en assurance**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Je travaille notamment sur :
+- 📊 Analyse et visualisation de données
+- 📈 Modélisation statistique & GLM
+- 🧮 Tarification, provisionnement et ALM
+- 🤖 Machine Learning
+- 🗄️ Data Management & Data Quality
+- 📉 Analyse des risques
+
+### 🛠️ Technologies
+
+**Python** · **R** · **SAS** · **SQL** · **VBA** · **Power BI**
+
+Python : Pandas · NumPy · Scikit-learn · Statsmodels · XGBoost · SHAP
+
+
+### 🌱 Actuellement
+
+Je développe des projets personnels combinant **Actuariat, Data Science et Machine Learning** afin de mettre en pratique mes compétences sur des problématiques proches de celles rencontrées en entreprise.
+
+
