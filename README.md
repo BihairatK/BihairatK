@@ -1,4 +1,4 @@
-# Hello, moi c'est Bihaïrat 👋.
+# Hello, moi c'est Bihaïrat 👋
 ## ✨Bienvenu dans mon GitHub✨
 
 ### 🎓 Actuaire & Data Scientist
