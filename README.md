@@ -8,7 +8,6 @@ l'analyse des risques**.
 
 Je m'intéresse particulièrement à l'utilisation de la donnée pour résoudre des **problématiques concrètes en assurance, actuariat et gestion des risques**.
 
-<br>
 
 ### 🔭 Domaines d'expertise
 
