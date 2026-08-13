@@ -14,30 +14,13 @@ Je m'intéresse particulièrement à l'utilisation de la donnée pour résoudre 
 De l'exploration des données à la modélisation et à l'interprétation des résultats, j'adopte une démarche statistique et orientée métier pour répondre à des
 problématiques de **Data Science, d'Actuariat et de Risk Management**.
 
-| Domaine | Problématique | Méthodes / Technologies |
+| Etape | Objectif | Méthodes |
 |---|---|---|
-| **Data Management** | Qualité des données | Contrôles qualité · Data Quality · Validation ETL |
-| | Architecture Data | ETL · Data Warehouse · Bronze / Silver / Gold |
-| | Analyse et reporting | Power BI · Matplotlib · Seaborn |
-| **Analyse de données** | Analyse exploratoire | Analyse univariée · Analyse bivariée |
-| | Analyse des relations | Corrélation de Pearson · Spearman · Matrices de corrélation |
-| | Analyse des données | Valeurs manquantes · Valeurs aberrantes · Distributions · Feature Engineering |
-| **Tests statistiques** | Dépendance entre variables quantitatives | Pearson · Spearman |
-| | Comparaison de groupes | ANOVA · Kruskal-Wallis |
-| | Dépendance entre variables qualitatives | Khi² · V de Cramer |
-| | Normalité / distributions | Shapiro-Wilk · QQ-plot |
-| **Machine Learning** | Classification | Régression logistique · Random Forest · XGBoost |
-| | Régression | Ridge · Lasso · Elastic Net · Random Forest · XGBoost |
-| | Clustering | K-Means · CAH · DBSCAN |
-| | Réduction dimensionnelle | PCA |
-| | Interprétabilité | SHAP · Feature Importance |
-| **Modélisation statistique** | Régression | GLM · OLS |
-| | Séries temporelles | GARCH · ARIMA |
-| | Sélection de variables | Lasso · Ridge · Elastic Net |
-| **Actuariat** | Tarification | GLM Poisson · GLM Gamma |
-| | Provisionnement | Chain Ladder · Bornhuetter-Ferguson |
-| | Risk Management | Solvabilité II · IFRS 17 · ALM |
-
+| **Data Management** | Fiabiliser et valoriser les données | ETL · Data Quality · Data Warehouse |
+| **Analyse statistique** | Identifier les relations et tester les hypothèses | Pearson · Spearman · ANOVA · Kruskal-Wallis · Khi² · V de Cramer |
+| **Machine Learning** | Prédire / segmenter | Classification · Régression · Clustering · PCA |
+| **Modélisation statistique** | Expliquer et quantifier les phénomènes | GLM · OLS · GARCH · ARIMA |
+| **Actuariat** | Modéliser et gérer le risque | Tarification · Provisionnement · Solvabilité II · IFRS 17 · ALM |
 
 
 ### 🛠️ Technologies
