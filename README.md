@@ -49,9 +49,8 @@ problématiques de **Data Science, d'Actuariat et de Risk Management**.
 
 Je développe des projets personnels combinant **Actuariat, Data Science, Machine Learning et Risk Management**, avec l'objectif de construire des solutions reproductibles et proches des problématiques rencontrées en entreprise.
 
+<br>
 
-<br>
-<br>
 ---
 
 ### 📫 Contact
