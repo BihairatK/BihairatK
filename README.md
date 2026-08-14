@@ -5,7 +5,7 @@
 
 Je suis spécialisée en **Actuariat et Data Science**, avec un profil à l'intersection de la **modélisation statistique, du Machine Learning et de l'analyse des risques**.
 
-Mon objectif est de transformer les données en **analyses, modèles et outils d'aide à la décision**, en combinant approche statistique, compétences techniques et compréhension des enjeux métiers.
+Mon objectif est de transformer les données en **analyses, modèles et outils d'aide à la décision**, en combinant <ins>approche statistique</ins>, <ins>compétences techniques</ins> et <ins>compréhension des enjeux métiers</ins>.
 
 
 ### 🔭 Domaines d'expertise
