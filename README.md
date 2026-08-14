@@ -1,18 +1,14 @@
 # Hello, moi c'est Bihaïrat 👋
-## ✨Bienvenu dans mon GitHub✨
+## ✨ Bienvenu dans mon GitHub ✨
 
 ### 🎓 Actuaire & Data Scientist
 
-Je suis spécialisée en **Actuariat et Data Science**, avec un profil à l'intersection de la **modélisation statistique, du Machine Learning et de
-l'analyse des risques**.
+Je suis spécialisée en **Actuariat et Data Science**, avec un profil à l'intersection de la **modélisation statistique, du Machine Learning et de l'analyse des risques**.
 
-Je m'intéresse particulièrement à l'utilisation de la donnée pour résoudre des **problématiques concrètes en assurance, actuariat et gestion des risques**.
+Mon objectif est de transformer les données en **analyses, modèles et outils d'aide à la décision**, en combinant approche statistique, compétences techniques et compréhension des enjeux métiers.
 
 
 ### 🔭 Domaines d'expertise
-
-De l'exploration des données à la modélisation et à l'interprétation des résultats, j'adopte une démarche statistique et orientée métier pour répondre à des
-problématiques de **Data Science, d'Actuariat et de Risk Management**.
 
 | Etape | Objectif | Méthodes |
 |---|---|---|
@@ -30,7 +26,7 @@ problématiques de **Data Science, d'Actuariat et de Risk Management**.
 
 ### 🌱 Actuellement
 
-Je développe des projets personnels combinant **Actuariat, Data Science, Machine Learning et Risk Management**, avec l'objectif de construire des solutions reproductibles et proches des problématiques rencontrées en entreprise.
+Je développe des projets personnels à la croisée de l'**Actuariat, de la Data Science et de la gestion des risques**, en mettant l'accent sur des solutions *reproductibles, interprétables et proches des problématiques rencontrées en entreprise*.
 
 <br>
 
