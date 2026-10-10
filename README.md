@@ -1,5 +1,5 @@
 # Hello, moi c'est Bihaïrat 👋
-## ✨ Bienvenu dans mon GitHub ✨
+## Bienvenu dans mon GitHub
 
 ### 🎓 Actuaire & Data Scientist
 
